@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{ED9E3AC5-8FDC-4D32-B7BA-E3BC7F660AB8}|FirstWebApplication">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Class.cs">
+    <Files>
+      <File FileName="Class.cs" Line="4" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstWebApplication" expanded="True">
+            <Node name="FirstWebApplication" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Class.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FirstWebApplication PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

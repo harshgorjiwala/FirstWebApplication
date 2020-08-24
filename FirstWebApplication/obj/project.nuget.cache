@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W2U3T+owSDBCvwuVrYtqPMDE/1Bc9wGN6+gQqQy4pxPaXeWBILd4W7zUZNBrb5f7Rzc1Z0G0pV2TAyk3qVMddQ==",
+  "success": true,
+  "projectFilePath": "/Users/palakpatel/Documents/GitHub/FirstWebApplication/FirstWebApplication/FirstWebApplication.csproj",
+  "expectedPackageFiles": [
+    "/Users/palakpatel/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "/Users/palakpatel/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

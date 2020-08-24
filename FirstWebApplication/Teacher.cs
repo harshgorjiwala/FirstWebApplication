@@ -1,15 +1,12 @@
 ﻿using System;
 namespace FirstWebApplication
 {
-    // this is new class
-
-    public class Class
+    public class Teacher
     {
         public int ID { get; set; }
+        public string TeacherName { get; set; }
 
-        public string ClassName { get; set; }
-
-        public Class()
+        public Teacher()
         {
         }
     }

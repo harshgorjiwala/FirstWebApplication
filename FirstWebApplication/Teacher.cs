@@ -3,8 +3,7 @@ namespace FirstWebApplication
 {
     public class Teacher
     {
-        public Teacher()
-        {
-        }
+        public int id { get; set; }
+        public string name { get; set; }
     }
 }

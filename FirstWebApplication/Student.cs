@@ -8,8 +8,15 @@ namespace FirstWebApplication
 
         public string StudentName { get; set; }
 
-        public Student()
+        public Student(int id,String name)
         {
+            this.ID = id;
+            this.StudentName = name;
+        }
+
+        public String toString() 
+        {
+            return "Student ID:" + ID + " Student Name:" + StudentName; 
         }
     }
 }

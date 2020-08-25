@@ -6,7 +6,7 @@ namespace FirstWebApplication
     {
         public int ID { get; set; }
 
-        public string StudentName { get; set; }
+        public String StudentName { get; set; }
 
         public Student(int id,String name)
         {

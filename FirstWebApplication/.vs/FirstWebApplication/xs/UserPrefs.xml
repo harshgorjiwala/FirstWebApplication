@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{ED9E3AC5-8FDC-4D32-B7BA-E3BC7F660AB8}|FirstWebApplication">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Class.cs">
     <Files>
-      <File FileName="Class.cs" Line="9" Column="1" />
+      <File FileName="Class.cs" Line="10" Column="46" />
       <File FileName="Subject.cs" Line="7" Column="34" />
       <File FileName="Teacher.cs" Line="14" Column="1" />
+      <File FileName="Student.cs" Line="11" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

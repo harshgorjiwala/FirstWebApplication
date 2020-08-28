@@ -6,26 +6,27 @@ namespace FirstWebApplication
         public int ID { get; set; }
         public string TeacherName { get; set; }
 
-        public string Position { get; set; }
+        public string Subject { get; set; }
 
-        public Teacher(int id, string TeacherName, string Position) 
+        public Teacher(int id, string teacherName, string subject) 
         {
             this.ID = id;
-            this.TeacherName = TeacherName;
-            this.Position = Position;
+            this.TeacherName = teacherName;
+            this.Subject = subject;
         }
-       
+
+        
         public string details(int ID, string TeacherName) 
         {
             return "Teacher Id:" + ID + " Teacher Name: " + TeacherName; 
         }
 
-        public string details(string Position)        //Method Overloading  
+        public string details(string Subject)        //Method Overloading  
         {
-            return " Teacher Name: " + TeacherName + "works as a " + Position;
+            return " Teacher Name: " + TeacherName + "is teaching " + Subject;
         }
 
-        Teacher obj = new teacherpoly;
+        Teacher teacherpoly = new Teacher() ;
         Teacherpoly.details(10,"Harsh");
         Teacherpoly.details("Science");
 

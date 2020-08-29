@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ITAssignment\\FirstWebApplication\\FirstWebApplication\\FirstWebApplication.csproj": {}
+    "/Users/palakpatel/Documents/GitHub/FirstWebApplication/FirstWebApplication/FirstWebApplication.csproj": {}
   },
   "projects": {
-    "E:\\ITAssignment\\FirstWebApplication\\FirstWebApplication\\FirstWebApplication.csproj": {
+    "/Users/palakpatel/Documents/GitHub/FirstWebApplication/FirstWebApplication/FirstWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ITAssignment\\FirstWebApplication\\FirstWebApplication\\FirstWebApplication.csproj",
+        "projectUniqueName": "/Users/palakpatel/Documents/GitHub/FirstWebApplication/FirstWebApplication/FirstWebApplication.csproj",
         "projectName": "FirstWebApplication",
-        "projectPath": "E:\\ITAssignment\\FirstWebApplication\\FirstWebApplication\\FirstWebApplication.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\ITAssignment\\FirstWebApplication\\FirstWebApplication\\obj\\",
+        "projectPath": "/Users/palakpatel/Documents/GitHub/FirstWebApplication/FirstWebApplication/FirstWebApplication.csproj",
+        "packagesPath": "/Users/palakpatel/.nuget/packages/",
+        "outputPath": "/Users/palakpatel/Documents/GitHub/FirstWebApplication/FirstWebApplication/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/palakpatel/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,6 +45,16 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -58,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
         }
       }
     }

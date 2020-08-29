@@ -1,17 +1,20 @@
 ﻿<Properties StartupConfiguration="{ED9E3AC5-8FDC-4D32-B7BA-E3BC7F660AB8}|FirstWebApplication">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Class.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="Class.cs" Line="10" Column="46" />
       <File FileName="Subject.cs" Line="7" Column="34" />
-      <File FileName="Teacher.cs" Line="14" Column="1" />
-      <File FileName="Student.cs" Line="11" Column="1" />
+      <File FileName="Teacher.cs" Line="9" Column="1" />
+      <File FileName="Student.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FirstWebApplication" expanded="True">
             <Node name="FirstWebApplication" expanded="True">
-              <Node name="Class.cs" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Teacher.cs" selected="True" />
             </Node>
           </Node>
         </State>

@@ -1,0 +1,5 @@
+/Users/palakpatel/Documents/GitHub/FirstWebApplication/FirstWebApplication/obj/Debug/netcoreapp3.0/FirstWebApplication.csprojAssemblyReference.cache
+/Users/palakpatel/Documents/GitHub/FirstWebApplication/FirstWebApplication/obj/Debug/netcoreapp3.0/FirstWebApplication.AssemblyInfoInputs.cache
+/Users/palakpatel/Documents/GitHub/FirstWebApplication/FirstWebApplication/obj/Debug/netcoreapp3.0/FirstWebApplication.AssemblyInfo.cs
+/Users/palakpatel/Documents/GitHub/FirstWebApplication/FirstWebApplication/obj/Debug/netcoreapp3.0/FirstWebApplication.csproj.CoreCompileInputs.cache
+/Users/palakpatel/Documents/GitHub/FirstWebApplication/FirstWebApplication/obj/Debug/netcoreapp3.0/FirstWebApplication.MvcApplicationPartsAssemblyInfo.cache

@@ -14,6 +14,11 @@ namespace FirstWebApplication
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+
+            Teacher teacherpoly = new Teacher(10, "Harsh", "Science");
+            Console.WriteLine(teacherpoly.details(10, "Harsh"));
+            Console.WriteLine(teacherpoly.details("Science"));
+            
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

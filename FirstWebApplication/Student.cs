@@ -6,7 +6,7 @@ namespace FirstWebApplication
     {
         public int ID { get; set; }
 
-        public String StudentName { get; set; }
+        public string StudentName { get; set; }
 
         public Student(int id,String name)
         {
@@ -14,7 +14,7 @@ namespace FirstWebApplication
             this.StudentName = name;
         }
 
-        public String toString() 
+        public override string ToString() 
         {
             return "Student ID:" + ID + " Student Name:" + StudentName; 
         }
